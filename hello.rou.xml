@@ -1,0 +1,32 @@
+<routes>
+	<vType guiShape="passenger/hatchback" accel="1.0" decel="5.0" id="Car1" length="4.0" maxSpeed="100.0" sigma="0.0" />
+
+	<route id="routewe" edges="3to1 1to2" />
+	<route id="routesn" edges="5to1 1to4" />
+	<route id="routens" edges="4to1 1to5" />
+	<route id="routeew" edges="2to1 1to3" />
+	<route id="routeWCSN" edges="3to1 1to5 5to1 1to4" />
+	<vehicle depart="0" id="we" route="routewe" type="Car1" />
+<vehicle depart="1" id="ns_0" route="routens" type="Car1" />
+<vehicle depart="2" id="we_1" route="routewe" type="Car1" />
+<vehicle depart="3" id="sn_2" route="routesn" type="Car1" />
+<vehicle depart="3" id="ns_3" route="routens" type="Car1" />
+<vehicle depart="4" id="sn_4" route="routesn" type="Car1" />
+<vehicle depart="5" id="sn_5" route="routesn" type="Car1" />
+<vehicle depart="5" id="ns_6" route="routens" type="Car1" />
+<vehicle depart="7" id="we_7" route="routewe" type="Car1" />
+<vehicle depart="8" id="ns_8" route="routens" type="Car1" />
+<vehicle depart="9" id="sn_9" route="routesn" type="Car1" />
+<vehicle depart="9" id="ns_10" route="routens" type="Car1" />
+<vehicle depart="11" id="sn_11" route="routesn" type="Car1" />
+<vehicle depart="11" id="ns_12" route="routens" type="Car1" />
+<vehicle depart="13" id="we_13" route="routewe" type="Car1" />
+<vehicle depart="13" id="ns_14" route="routens" type="Car1" />
+<vehicle depart="14" id="ns_15" route="routens" type="Car1" />
+<vehicle depart="15" id="ns_16" route="routens" type="Car1" />
+<vehicle depart="16" id="sn_17" route="routesn" type="Car1" />
+<vehicle depart="17" id="sn_18" route="routesn" type="Car1" />
+<vehicle depart="18" id="sn_19" route="routesn" type="Car1" />
+<vehicle depart="19" id="ns_20" route="routens" type="Car1" />
+<vehicle depart="19" id="ew_21" route="routeew" type="Car1" />
+</routes>

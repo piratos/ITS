@@ -1,0 +1,13 @@
+<additional>
+	<inductionLoop id="2_down" friendlyPos="True" lane="2to1_0" pos="100" freq="750" file="2to1_0.out" />
+	<inductionLoop id="2_up" friendlyPos="True" lane="1to2_0" pos="0" freq="750" file="2to1_01.out" />
+
+	<inductionLoop id="3_down" friendlyPos="True" lane="3to1_0" pos="100" freq="750" file="3to1_0.out" />
+	<inductionLoop id="3_up" friendlyPos="True" lane="1to3_0" pos="0" freq="750" file="3to1_01.out" />
+
+	<inductionLoop id="4_down" friendlyPos="True" lane="4to1_0" pos="100" freq="750" file="4to1_0.out" />
+	<inductionLoop id="4_up" friendlyPos="True" lane="1to4_0" pos="0" freq="750" file="4to1_01.out" />
+
+	<inductionLoop id="5_down" friendlyPos="True" lane="5to1_0" pos="100" freq="750" file="5to1_0.out" />
+	<inductionLoop id="5_up" friendlyPos="True" lane="1to5_0" pos="0" freq="750" file="5to1_01.out" />
+</additional>

@@ -1,0 +1,3 @@
+#!/bin/bash
+rm *.net.xml;
+netconvert -c hello.netc.cfg;
